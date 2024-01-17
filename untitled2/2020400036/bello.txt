@@ -1,8 +1,0 @@
-Username: cmpe230
-Hostname: cmpe230-VirtualBox
-Last Executed Command: bello
-TTY: /dev/pts/0
-Current Shell Name: /bin/bash
-Home Location: /home/cmpe230
-Current Time and Date: 2023-12-13 13:12:45
-Current number of processes being executed: 230
